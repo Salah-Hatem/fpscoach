@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/fpscoach/static/css/main.08568bcf.chunk.css",
+    "main.js": "/fpscoach/static/js/main.bb86b682.chunk.js",
+    "main.js.map": "/fpscoach/static/js/main.bb86b682.chunk.js.map",
+    "runtime-main.js": "/fpscoach/static/js/runtime-main.859c24ef.js",
+    "runtime-main.js.map": "/fpscoach/static/js/runtime-main.859c24ef.js.map",
+    "static/js/2.b3b521ef.chunk.js": "/fpscoach/static/js/2.b3b521ef.chunk.js",
+    "static/js/2.b3b521ef.chunk.js.map": "/fpscoach/static/js/2.b3b521ef.chunk.js.map",
+    "index.html": "/fpscoach/index.html",
+    "static/css/main.08568bcf.chunk.css.map": "/fpscoach/static/css/main.08568bcf.chunk.css.map",
+    "static/js/2.b3b521ef.chunk.js.LICENSE.txt": "/fpscoach/static/js/2.b3b521ef.chunk.js.LICENSE.txt",
+    "static/media/Coach.jpg": "/fpscoach/static/media/Coach.7d395a0d.jpg",
+    "static/media/Fortnite-logo.77899f04.svg": "/fpscoach/static/media/Fortnite-logo.77899f04.svg",
+    "static/media/League_logo.b71cc59e.svg": "/fpscoach/static/media/League_logo.b71cc59e.svg",
+    "static/media/Sign-bg.1a5efb6c.jpg": "/fpscoach/static/media/Sign-bg.1a5efb6c.jpg",
+    "static/media/Val-Bg.jpg": "/fpscoach/static/media/Val-Bg.93507b7c.jpg",
+    "static/media/Valorant_logo.140c7038.svg": "/fpscoach/static/media/Valorant_logo.140c7038.svg",
+    "static/media/bgFortnite.2cee709d.jpg": "/fpscoach/static/media/bgFortnite.2cee709d.jpg",
+    "static/media/bgLeague.7d9d0ab3.jpg": "/fpscoach/static/media/bgLeague.7d9d0ab3.jpg",
+    "static/media/bgValorant.4a3403be.jpg": "/fpscoach/static/media/bgValorant.4a3403be.jpg",
+    "static/media/svg-6.svg": "/fpscoach/static/media/svg-6.c44126dd.svg",
+    "static/media/valorant-agent-sova-full-body.png": "/fpscoach/static/media/valorant-agent-sova-full-body.5516dedf.png",
+    "static/media/video.ba053bf4.mp4": "/fpscoach/static/media/video.ba053bf4.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.859c24ef.js",
+    "static/js/2.b3b521ef.chunk.js",
+    "static/css/main.08568bcf.chunk.css",
+    "static/js/main.bb86b682.chunk.js"
+  ]
+}
